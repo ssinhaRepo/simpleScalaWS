@@ -1,0 +1,8 @@
+[error] /home/osboxes/projects/IdeaProjects/scala/simpleScalaWS/project/RestApiBuild.scala:5:28: not found: type Build
+[error] class RestApiBuild extends Build {
+[error]                            ^
+[error] /home/osboxes/projects/IdeaProjects/scala/simpleScalaWS/project/RestApiBuild.scala:6:71: too many arguments (3) for method apply: (id: String, base: java.io.File)sbt.Project in object Project
+[error] Note that 'settings' is not a parameter name of the invoked method.
+[error]   lazy val main = Project(id = "rest-api", base = file("."), settings = buildSettings)
+[error]                                                                       ^
+[error] two errors found

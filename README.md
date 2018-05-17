@@ -1,2 +1,2 @@
 # simpleScalaWS
-Simple Scala webservice following https://www.linkedin.com/pulse/hands-down-write-scala-code-andriy-yurchuk
+following tutorial from : http://engineering.monsanto.com/2015/08/11/simple-spray/
